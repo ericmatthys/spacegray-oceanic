@@ -1,6 +1,6 @@
 # Spacegray Oceanic Next
 
-A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme) color scheme.
+A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes with accompanying [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme) color scheme.
 
 ***
 
