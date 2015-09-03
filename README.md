@@ -1,6 +1,6 @@
-# Spacegray
+# Spacegray Oceanic Next
 
-A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
+A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme) color scheme.
 
 ***
 
@@ -8,23 +8,9 @@ A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal.
 
 #### Spacegray
 
-Default flavor based on Base16 Ocean Dark color scheme.
+Default flavor based on Oceanic Next Dark color scheme.
 
-![image](Screenshots/spacegray.png)
-
-#### Spacegray Light
-
-Light variation based on Base16 Ocean Light color scheme.
-
-![image](Screenshots/spacegray-light.png)
-
-#### Spacegray Eighties
-
-A variation based on Base16 Eighties Dark color scheme.
-
-![image](Screenshots/spacegray-eighties.png)
-
-*The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe-fonts/source-code-pro).*
+![image](Screenshots/spacegray-oceanic-next.png)
 
 ***
 
@@ -32,18 +18,18 @@ A variation based on Base16 Eighties Dark color scheme.
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray is listed as `Theme - Spacegray`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray Oceanic Next is listed as `Theme - Spacegray Oceanic Next`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Theme - Spacegray` and hit <kbd>Enter</kbd>
+3. Find `Theme - Spacegray Oceanic Next` and hit <kbd>Enter</kbd>
 
 #### Manual
 
 You can also install the theme manually:
 
-1. [Download the .zip](https://github.com/kkga/spacegray/archive/master.zip)
-2. Unzip and rename the folder to `Theme - Spacegray`
+1. [Download the .zip](https://github.com/ericmatthys/spacegray-oceanic-next/archive/master.zip)
+2. Unzip and rename the folder to `Theme - Spacegray Oceanic Next`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
 ***
@@ -56,30 +42,12 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
 
 ***Note: Don't forget to restart Sublime Text after activating the theme.***
 
-#### Settings for Spacegray
+#### Settings for Spacegray Oceanic Next
 
 ```json
 {
-  "theme": "Spacegray.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
-}
-```
-
-#### Settings for Spacegray Light
-
-```json
-{
-  "theme": "Spacegray Light.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
-}
-```
-
-#### Settings for Spacegray Eighties
-
-```json
-{
-  "theme": "Spacegray Eighties.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
+  "theme": "Spacegray Oceanic Next.sublime-theme",
+  "color_scheme": "Packages/Theme - Spacegray Oceanic Next/Oceanic Next (SL).tmTheme"
 }
 ```
 
@@ -121,7 +89,7 @@ Tabs height:
   "spacegray_tabs_xlarge": true
 ```
 
-Tabs width: 
+Tabs width:
 
 ```json
   "spacegray_tabs_auto_width": true
@@ -165,9 +133,3 @@ Tabs width:
 ```json
     "enable_tab_scrolling": false,
 ```
-
-***
-
-### Thanks
-
-The Spacegray Eighties variation is contributed by [Yoshua Wuyts](https://github.com/yoshuawuyts).

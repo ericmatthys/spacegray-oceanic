@@ -5,16 +5,16 @@
 	<key>author</key>
 	<string>Gadzhi Kharkharov</string>
 	<key>comment</key>
-	<string>Spacegray</string>
+	<string>Spacegray Oceanic Next</string>
 	<key>name</key>
-	<string>Spacegray</string>
+	<string>Spacegray Oceanic Next</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1C1F26</string>
+				<string>#121E25</string>
 				<key>caret</key>
 				<string>#c0c5ce</string>
 				<key>foreground</key>
